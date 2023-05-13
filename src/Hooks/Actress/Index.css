@@ -1,0 +1,45 @@
+
+.nav-div{
+    height: 55px;
+    width: 100%;
+    background-color: rgb(6, 247, 247);
+    /* align-items: center; */
+}
+
+.art1{
+    height: 55px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgb(153, 88, 88);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 20px;
+
+}
+
+.divcard{
+    margin: 3.5% 0 0 37%;
+    width: 27%;
+    height: 550px;
+    background-color: rgb(138, 63, 209);
+    border-radius: 20px;
+    
+}
+.divcard img{
+    border-radius: 50%;
+    margin: 17px;
+}
+
+.p1{
+    font-size: 30px;
+    margin: 0 0 5px 90px;
+    font-weight: 600;
+
+}
+
+.p2{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+}

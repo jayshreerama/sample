@@ -1,0 +1,106 @@
+
+
+.nav1{
+    height: 90px;
+    width: 100%;
+    background-color: rgb(221, 231, 231);
+    /* justify-content: center; */
+    
+}
+
+.art1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.art1 div{
+    /* margin-top: 18px; */
+    font-size: 18px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+#search{
+    border-radius: 20px;
+    padding: 7px;
+    border: 2px solid orangered;
+}
+
+.nav-blur{
+    color: rgb(126, 106, 106);
+}
+
+.nav-orange{
+    color: orange;
+    /* font-size: 40px; */
+}
+
+.sec2{
+    display: flex;
+    justify-content: space-around;
+    height: 90vh;
+    background-color: rgb(179, 179, 122);
+}
+
+
+.divtext{
+    align-items: center;
+    /* display: flex; */
+    justify-content: center;
+    text-align: center;
+}
+
+.divcard{
+    width: 31.5%;
+    height: 300px;
+    /* border: 1px solid red; */
+    /* border-radius: 30px; */
+    box-shadow: 4px 4px 4px 2px black;
+    margin-top: 80px;
+    /* justify-content: center; */
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+}
+.divcard img{
+    /* border-radius: 30px; */
+    height: 300px;
+    /* width: 80%; */
+}
+
+.popupbtn{
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: rgb(241, 210, 35);
+}
+
+.div1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    /* margin-bottom: 550px; */
+    height: 100%;
+}
+
+.modal{
+    height: 600px;
+    width: 40%;
+    background-color: rgb(228, 235, 235);
+    border: 1px solid black;
+    
+}
+
+.modal h1{
+    font-size: 35px;
+    /* text-align: center; */
+    margin-bottom: -10px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.modal h4 span{
+    margin-left: 33%;
+}
